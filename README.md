@@ -6,6 +6,6 @@ Para rodar o programa:
 2. Extraia os arquivos da pasta .zip
 3. Rode um servidor local. (Pode usar Xampp, Wamp, Mamp, etc)
 4. Acessa o localhost e a porta definida nas configuracões do programa usado para rodar o servidor.
-5. Já pode visualizar o projeto!
+5. Pronto! Já pode visualizar o projeto!
 
 Obrigado!
